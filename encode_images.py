@@ -10,7 +10,11 @@ import config
 from encoder.generator_model import Generator
 from encoder.perceptual_model import PerceptualModel
 
-URL_FFHQ = 'https://drive.google.com/uc?id=1MEGjdvVpUsu1jB4zrXZN7Y4kBBOzizDQ'  # karras2019stylegan-ffhq-1024x1024.pkl
+URL_FFHQ = 'https://drive.google.com/uc?id=1PJK3glcckCZtrtHkqDhmCeAD0FBmJBsE'  # allface
+# URL_FFHQ = 'https://drive.google.com/uc?id=188K19ucknC6wg1R6jbuPEhTq9zoufOx4'  # celebhq 2018
+# URL_FFHQ = 'https://drive.google.com/uc?id=1r0TfaJzf0P21odhTVwCSJgnY5xM8o24y'  # celebhq 2019
+# URL_FFHQ = 'https://drive.google.com/uc?id=1YTfq-xo-O7y5m8Zq9PB0ErTLWL2M5r97'  # ffhq
+
 
 
 def split_to_batches(l, n):
