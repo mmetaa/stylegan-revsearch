@@ -15,6 +15,17 @@ URL_FFHQ = 'https://drive.google.com/uc?id=1PJK3glcckCZtrtHkqDhmCeAD0FBmJBsE'  #
 # URL_FFHQ = 'https://drive.google.com/uc?id=1r0TfaJzf0P21odhTVwCSJgnY5xM8o24y'  # celebhq 2019
 # URL_FFHQ = 'https://drive.google.com/uc?id=1YTfq-xo-O7y5m8Zq9PB0ErTLWL2M5r97'  # ffhq
 
+# the below pkl files do not work yet.
+# URL_FFHQ = 'https://drive.google.com/uc?id=1nT9JMOKdh_4grwKJ8kKq3iMLAEUL4rfq'  # animefaces
+# URL_FFHQ = 'https://drive.google.com/uc?id=1wcQxQ-Bvk71MSd28PRqTXaejMObNZg9r'  # abstract photo
+# URL_FFHQ = 'https://drive.google.com/uc?id=1bx3lPLSmm3Thv5m1v1_0H_nJ0GWJrBe5'  # bigstylegan
+# URL_FFHQ = 'https://drive.google.com/uc?id=1g5b5H-t-Lc6lAFhSZXnDc3QE5ovhVqR1'  # deep logos
+# URL_FFHQ = 'https://drive.google.com/uc?id=1A9V9tUbHiVuJi6Ow4PxNIJIIKHeSXzjv'  # fashion
+# URL_FFHQ = 'https://drive.google.com/uc?id=1oXRUN5XuK3TCGnX9vCB5jqWqwY0XIsw2'  # ganbreeder art
+# URL_FFHQ = 'https://drive.google.com/uc?id=1W8Jyjsvc0mmVdgUxsjxf9hkSyiyqT6HS'  # stylegan cars
+# URL_FFHQ = 'https://drive.google.com/uc?id=10sz8GVHJicYt_HoHFESYaJ3JQTIvJ8gZ'  # pokemon
+# URL_FFHQ = 'https://drive.google.com/uc?id=1v9QEv0tv-CVdywjJcwOYr3DW_Egt4zuo'  # portraits
+# URL_FFHQ = 'https://drive.google.com/uc?id=1fBl2xfgMjYE9a8NJLLTBHUFijXgfz3cf'  # wikiart
 
 
 def split_to_batches(l, n):
